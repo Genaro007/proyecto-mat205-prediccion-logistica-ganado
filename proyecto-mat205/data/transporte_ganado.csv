@@ -1,0 +1,16 @@
+ID_Viaje,Distancia_KM,Temperatura_C,Tipo_Vehiculo,Condicion_Clima,Nivel_Riesgo
+1,150,22,Jaula_Abierta,Soleado,Bajo
+2,450,35,Jaula_Abierta,Soleado,Alto
+3,50,18,Termico_Controlado,Nublado,Bajo
+4,600,38,Jaula_Abierta,Soleado,Alto
+5,250,28,Termico_Controlado,Lluvia,Medio
+6,300,30,Jaula_Abierta,Nublado,Medio
+7,700,40,Jaula_Abierta,Soleado,Alto
+8,100,15,Termico_Controlado,Soleado,Bajo
+9,500,25,Termico_Controlado,Nublado,Medio
+10,650,33,Jaula_Abierta,Lluvia,Alto
+11,350,29,Termico_Controlado,Soleado,Medio
+12,550,36,Jaula_Abierta,Nublado,Alto
+13,200,20,Termico_Controlado,Lluvia,Bajo
+14,400,31,Jaula_Abierta,Lluvia,Medio
+15,80,14,Termico_Controlado,Soleado,Bajo
